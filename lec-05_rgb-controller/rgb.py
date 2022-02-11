@@ -1,3 +1,5 @@
+# !/bin/python
+
 from sys import argv
 
 class RGB:
