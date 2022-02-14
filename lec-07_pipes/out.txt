@@ -1,0 +1,10 @@
+avahi   
+estalvgs
+kernoops
+message+
+postgres
+root    
+rtkit   
+syslog  
+systemd+
+UID     
