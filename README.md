@@ -1,1 +1,1 @@
-# operative-systems-course
+# operating-systems-course
